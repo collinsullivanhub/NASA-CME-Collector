@@ -18,3 +18,6 @@ This tool was built for educational purposes to gather data about coronal mass e
 
 See below screenshot for usage:
 
+<p align="center">
+  <img src="https://github.com/collinsullivanhub/NASA-CME-Collector/blob/main/nasa_progam_screenshot.png">
+</p>

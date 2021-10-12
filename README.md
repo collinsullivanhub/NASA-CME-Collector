@@ -1,5 +1,5 @@
 # NASA-CME-Collector
-Tool to view coronal mass ejection data with NASA's OpenAPI project
+Tool to view coronal mass ejection data with NASA's OpenAPI project.
 
 <p align="center">
   <img src="https://github.com/collinsullivanhub/NASA-CME-Collector/blob/main/nasa_program_picture.png">

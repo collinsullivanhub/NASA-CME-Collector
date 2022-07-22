@@ -89,8 +89,8 @@ class coronalData:
 
 if __name__ == '__main__':
 
-    username = "collinsullivan@protonmail.com"
-    api_key = "7OjWaZYLcYzdRFGF73x9n9OBHpkMFcyaiUy6c0fH"
+    username = "-"
+    api_key = "-"
 
     init()
     query_data = coronalData(username, api_key)
